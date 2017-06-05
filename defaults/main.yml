@@ -2,3 +2,4 @@
 kubectl_version: 1.5.3
 kubectl_checksum: "sha256:9cfc6cfb959d934cc8080c2dea1e5a6490fd29e592718c5b2b2cfda5f92e787e"
 kubectl_download_url: https://storage.googleapis.com/kubernetes-release/release/v
+validate_certs: no
